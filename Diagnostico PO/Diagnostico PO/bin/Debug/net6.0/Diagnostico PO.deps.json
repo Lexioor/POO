@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Diagnostico PO/1.0.0": {
+        "runtime": {
+          "Diagnostico PO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diagnostico PO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
