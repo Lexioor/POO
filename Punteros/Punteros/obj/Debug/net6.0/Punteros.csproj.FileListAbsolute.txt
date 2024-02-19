@@ -1,0 +1,14 @@
+C:\Users\Lexio\source\repos\Punteros\Punteros\bin\Debug\net6.0\Punteros.exe
+C:\Users\Lexio\source\repos\Punteros\Punteros\bin\Debug\net6.0\Punteros.deps.json
+C:\Users\Lexio\source\repos\Punteros\Punteros\bin\Debug\net6.0\Punteros.runtimeconfig.json
+C:\Users\Lexio\source\repos\Punteros\Punteros\bin\Debug\net6.0\Punteros.dll
+C:\Users\Lexio\source\repos\Punteros\Punteros\bin\Debug\net6.0\Punteros.pdb
+C:\Users\Lexio\source\repos\Punteros\Punteros\obj\Debug\net6.0\Punteros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lexio\source\repos\Punteros\Punteros\obj\Debug\net6.0\Punteros.AssemblyInfoInputs.cache
+C:\Users\Lexio\source\repos\Punteros\Punteros\obj\Debug\net6.0\Punteros.AssemblyInfo.cs
+C:\Users\Lexio\source\repos\Punteros\Punteros\obj\Debug\net6.0\Punteros.csproj.CoreCompileInputs.cache
+C:\Users\Lexio\source\repos\Punteros\Punteros\obj\Debug\net6.0\Punteros.dll
+C:\Users\Lexio\source\repos\Punteros\Punteros\obj\Debug\net6.0\refint\Punteros.dll
+C:\Users\Lexio\source\repos\Punteros\Punteros\obj\Debug\net6.0\Punteros.pdb
+C:\Users\Lexio\source\repos\Punteros\Punteros\obj\Debug\net6.0\Punteros.genruntimeconfig.cache
+C:\Users\Lexio\source\repos\Punteros\Punteros\obj\Debug\net6.0\ref\Punteros.dll
