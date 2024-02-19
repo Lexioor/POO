@@ -1,1 +1,12 @@
-I
+Martínez Camarena Lex Cristofer #23310152 2-P
+
+Los smart pointers son punteros mejorados con gestion de memorias que ayudan los lenguajes que no tienen recolector de basura como C++ y un poco C#.
+
+"Unique Pointer": Es un puntero inteligente que unicamente utiliza un recurso lo que permite la utilización eficiente de ese recurso.
+
+"Shared Pointer": Es un puntero que permite que varios punteros utilizen un solo recurso, este tambien libera memoria cuando este recurso no se utiliza.
+
+"Weak Pointer": Es un puntero similar al shared pointer solo que este no incrementa el conteo de referencias evitando asi problemas de referencia circular.
+
+Algunas ventajas son: La seguridad al prevenir problemas comunes de gestión de memoria como las fugas y referencias erroneas, simplifica el codigo al no tener que manejar la memoria reduce el trabajo del programador;
+tambien mejora la eficiencia del codigo al manejar automaticamente los recursos de la manera mas oportuna.
