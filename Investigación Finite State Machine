@@ -1,0 +1,14 @@
+Una Máquina de Estados Finitos es un modelo de computación basado en una máquina hipotética compuesta por uno o más estados. 
+Solo un estado de esta máquina puede estar activo al mismo tiempo, esto significa que la máquina tiene que hacer transiciones de un estado a otro para realizar diferentes acciones.
+
+Las Máquinas de Estado Finito provienen de una rama de la Ciencia de la Computación llamada "teoría de autómatas",La familia de estructuras de datos pertenecientes a este dominio también incluye la Máquina de Turing.
+
+¿Qué usos puede tener en el codigo que estamos desarrollando?
+
+Se puede utilizar para el combate asignando una fsm al jugador y a los enemigos haciendo que dependiendo de su estado actual puedan o no puedan hacer ciertas acciones extras depediendo de su estado actual, por ejemplo:
+si el jugador bloquea el ataque no puede atacar o utilizar un objeto mientras sea atacado pero si podria realizar un contrataque en caso de que sus estadisticas sean mayores a las del enemigo.
+
+Tambien se puede utilizar para implementar una IA a los enemigos que dependiendo de la situación realizen las acciones que mas convengan para que sea un desafio a los jugadores.
+
+Se puede implementar en interacciones con entorno y eventos que requieran de ciertos requisitos para que ocurran por ejemplo desbloquar un cofre con una llave o desbloquar una zona nueva del mapa justo
+despues de derrotar un jefe, e incluso un sistema de misiones y dialogos que dependan mismamente de acciones especificas.
