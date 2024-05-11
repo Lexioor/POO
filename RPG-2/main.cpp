@@ -108,9 +108,9 @@ int loadPlayerData(Player &player)
 
 int main()
 {
-    Player player("Goku", 100, 800, 80, 100);
-    Enemy enemy("Freezer", 50, 6, 2, 5);
-    Enemy enemy2("Cell", 50, 6, 2, 5);
+    Player player("Maynez", 100, 800, 80, 100);
+    Enemy enemy("Claudia", 50, 6, 2, 5);
+    Enemy enemy2("Xochitl", 50, 6, 2, 5);
 
     int combatLevel = 1;
 
