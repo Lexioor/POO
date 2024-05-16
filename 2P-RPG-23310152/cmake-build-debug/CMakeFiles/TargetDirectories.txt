@@ -1,0 +1,3 @@
+C:/Users/Lexio/CLionProjects/2P-RPG/cmake-build-debug/CMakeFiles/rpg.dir
+C:/Users/Lexio/CLionProjects/2P-RPG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lexio/CLionProjects/2P-RPG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
